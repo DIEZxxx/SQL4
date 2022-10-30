@@ -1,0 +1,3 @@
+﻿CREATE USER [dbo]
+  FOR LOGIN [TEST3]
+GO

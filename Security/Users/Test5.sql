@@ -1,0 +1,3 @@
+﻿CREATE USER [Test5]
+  FOR LOGIN [Test5]
+GO
